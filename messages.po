@@ -35,3 +35,9 @@ msgstr ""
 
 msgid "サッカー"
 msgstr ""
+
+msgid "おはよう"
+msgstr ""
+
+msgid "米Appleは8月22日(現地時間)、一部のiPhone 5で、バッテリー残量が急に減少するトラブルが起こり得るバッテリーの不具合があったことを公表した。"
+msgstr ""
