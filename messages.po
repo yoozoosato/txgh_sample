@@ -1,4 +1,4 @@
-# 
+#
 # Translators:
 # SATO Yozo <yozo.sato@playnext.co.jp>, 2014
 msgid ""
@@ -61,3 +61,12 @@ msgstr "about 15 minuts left"
 
 msgid "むりっぽい"
 msgstr "probably impossible"
+
+msgid "スイカ"
+msgstr ""
+
+msgid "残業"
+msgstr ""
+
+msgid "合コン"
+msgstr ""
