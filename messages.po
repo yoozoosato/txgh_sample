@@ -47,3 +47,6 @@ msgstr ""
 
 msgid "コーヒー"
 msgstr ""
+
+msgid "お茶"
+msgstr ""
