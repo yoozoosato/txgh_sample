@@ -32,3 +32,5 @@ msgid "ごめんなさい"
 msgid "ビール"
 
 msgid "ワイン"
+
+msgid "妖怪"
