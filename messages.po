@@ -1,11 +1,11 @@
-#
+# Translators:
 # Translators:
 # SATO Yozo <yozo.sato@playnext.co.jp>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: api_test\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-23 08:18+0000\n"
+"PO-Revision-Date: 2014-08-23 09:36+0000\n"
 "Last-Translator: SATO Yozo <yozo.sato@playnext.co.jp>\n"
 "Language-Team: English (http://www.transifex.com/projects/p/api_test/language/en/)\n"
 "MIME-Version: 1.0\n"
@@ -63,13 +63,13 @@ msgid "むりっぽい"
 msgstr "probably impossible"
 
 msgid "スイカ"
-msgstr ""
+msgstr "water melon"
 
 msgid "残業"
-msgstr ""
+msgstr "over time"
 
 msgid "合コン"
-msgstr ""
+msgstr "match making party"
 
 msgid "ゆかた"
-msgstr ""
+msgstr "yukata"
