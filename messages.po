@@ -70,3 +70,6 @@ msgstr ""
 
 msgid "合コン"
 msgstr ""
+
+msgid "ゆかた"
+msgstr ""
