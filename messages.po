@@ -20,3 +20,7 @@ msgstr "Good evening"
 
 msgid "おやすみなさい"
 msgstr "Good night"
+
+msgid "あけましておめでとうございます"
+
+msgid "おめでとうございます"
