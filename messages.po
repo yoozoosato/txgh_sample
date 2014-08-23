@@ -50,3 +50,6 @@ msgstr ""
 
 msgid "お茶"
 msgstr ""
+
+msgid "残り15分くらい"
+msgstr ""
