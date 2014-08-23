@@ -53,3 +53,6 @@ msgstr ""
 
 msgid "残り15分くらい"
 msgstr ""
+
+msgid "むりっぽい"
+msgstr ""
