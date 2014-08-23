@@ -1,3 +1,9 @@
 [main]
 host = https://www.transifex.com
 
+[api_test.messagespo]
+file_filter = messages.po
+source_file = messages.po
+source_lang = ja
+type = PO
+
