@@ -34,3 +34,5 @@ msgid "ビール"
 msgid "ワイン"
 
 msgid "妖怪"
+
+msgid "サッカー"
