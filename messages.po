@@ -22,17 +22,25 @@ msgid "おやすみなさい"
 msgstr "Good night"
 
 msgid "あけましておめでとうございます"
+msgstr ""
 
 msgid "おめでとうございます"
+msgstr ""
 
 msgid "すみません"
+msgstr ""
 
 msgid "ごめんなさい"
+msgstr ""
 
 msgid "ビール"
+msgstr ""
 
 msgid "ワイン"
+msgstr ""
 
 msgid "妖怪"
+msgstr ""
 
 msgid "サッカー"
+msgstr ""
