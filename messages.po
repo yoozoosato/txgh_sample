@@ -1,58 +1,63 @@
+# 
+# Translators:
+# SATO Yozo <yozo.sato@playnext.co.jp>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: api_test\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: SATO Yozo <yozo.sato@gpmobile.co.jp>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2014-08-23 08:18+0000\n"
+"Last-Translator: SATO Yozo <yozo.sato@playnext.co.jp>\n"
+"Language-Team: English (http://www.transifex.com/projects/p/api_test/language/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.8\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.8\n"
 
 msgid "あけましておめでとうございます"
-msgstr ""
+msgstr "A happy new year."
 
 msgid "おめでとうございます"
-msgstr ""
+msgstr "Congratulations"
 
 msgid "すみません"
-msgstr ""
+msgstr "Excuse me"
 
 msgid "ごめんなさい"
-msgstr ""
+msgstr "I'm sorry."
 
 msgid "ビール"
-msgstr ""
+msgstr "Beer."
 
 msgid "ワイン"
-msgstr ""
+msgstr "Wine"
 
 msgid "妖怪"
-msgstr ""
+msgstr "monster"
 
 msgid "サッカー"
-msgstr ""
+msgstr "soccer"
 
 msgid "おはよう"
-msgstr ""
+msgstr "good morning"
 
-msgid "米Appleは8月22日(現地時間)、一部のiPhone 5で、バッテリー残量が急に減少するトラブルが起こり得るバッテリーの不具合があったことを公表した。"
-msgstr ""
+msgid ""
+"米Appleは8月22日(現地時間)、一部のiPhone "
+"5で、バッテリー残量が急に減少するトラブルが起こり得るバッテリーの不具合があったことを公表した。"
+msgstr "Apple announced on 8/22 (Pacific Standard Time) that some iPhone 5 devices are having issue on its battery, these devices may \"suddenly experience shorter battery life\". "
 
 msgid "おいしいみりん"
-msgstr ""
+msgstr "delicious mirin"
 
 msgid "コーヒー"
-msgstr ""
+msgstr "coffee"
 
 msgid "お茶"
-msgstr ""
+msgstr "tea"
 
 msgid "残り15分くらい"
-msgstr ""
+msgstr "about 15 minuts left"
 
 msgid "むりっぽい"
-msgstr ""
+msgstr "probably impossible"
