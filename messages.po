@@ -24,3 +24,5 @@ msgstr "Good night"
 msgid "あけましておめでとうございます"
 
 msgid "おめでとうございます"
+
+msgid "すみません"
